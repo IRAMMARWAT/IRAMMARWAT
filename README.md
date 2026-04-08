@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irammarwat&label=Profile%20views&color=0e75b6&style=flat" alt="irammarwat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irammarwat" alt="irammarwat" /></a> </p>
-
 - 🔭 I’m currently working on [Customer Churn Analysis and Prediction Project](https://github.com/IRAMMARWAT/Customer_Churn_Analysis-and-Prediction-Project-.git)
 
 - 🌱 I’m currently learning **TensorFlow, Langchain, Streamlit..**
